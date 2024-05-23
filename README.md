@@ -86,6 +86,6 @@
 
 
 
-![snake gif](https://github.com/Harshit787898/Harshit787898/raw/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Harshit787898=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
