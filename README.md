@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Good+Morning!+I'm+Harshit;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=System.out.print(%22Hello+World%22);%0D%0AGood+Morning!+I'm+Harshit;%0D%0AWelcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/harshit787898/count.svg)
