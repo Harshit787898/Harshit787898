@@ -86,5 +86,6 @@
 
 
 
-![snake gif](https://github.com/Harshit787898/Harshit787898/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Harshit787898/Harshit787898/raw/output/github-contribution-grid-snake.svg)
+
 
