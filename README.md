@@ -84,4 +84,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit787898&theme=radical" alt="GitHub Streak" />
 </p>
 
-[![Harshit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshit787898&theme=rogue)](https://github.com/harshit787898/github-readme-activity-graph)
+
