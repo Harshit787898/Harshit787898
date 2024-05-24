@@ -90,13 +90,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit787898&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harshit787898&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshit787898/harshit787898/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 ### 🏆 Achievements:
 - 🎯 Successfully solved **450+ problems on Leetcode**, showcasing strong analytical and algorithmic skills.
