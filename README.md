@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=System.out.print(%22Hello+World%22);%0D%0AGood+Morning!+I'm+Harshit;%0D%0AWelcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/harshit787898/count.svg" alt="Visitor Count" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshit787898&theme=dracula&column=7" alt="Trophy" />
 </p>
 
-    "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
-📝 About Me
+### 📝 About Me
+- 🎓 **Undergraduate Student** majoring in **Computer Science and Engineering**
+- 💡 Enthusiast in **Machine Learning, Artificial Intelligence, and Deep Learning**
+- 💻 Solved **450+ problems on Leetcode** and **230+ problems on GeeksforGeeks**
+- 🏆 **6-star rating in Problem Solving** and **4-star rating in Java** on Hackerrank
 
-    🎓 Undergraduate Student majoring in Computer Science and Engineering
-    💡 Enthusiast in Machine Learning, Artificial Intelligence, and Deep Learning
-    💻 Solved 450+ problems on Leetcode and 230+ problems on GeeksforGeeks
-    🏆 6-star rating in Problem Solving and 4-star rating in Java on Hackerrank
-
-🤝 Connect with Me:
+### 🤝 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/harshit-singh-8a41a9229" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -43,7 +45,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
-🛠️ Languages and Tools:
+
+### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
@@ -73,18 +76,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
-📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit787898&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit787898&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit787898&theme=radical" alt="GitHub Streak" />
 </p>
-🏆 Achievements:
 
-    🎯 Successfully solved 450+ problems on Leetcode, showcasing strong analytical and algorithmic skills.
-    🌟 Attained a 6-star rating in problem-solving and earned a prestigious 4-star rating in Java on Hackerrank, highlighting a high level of expertise.
-    🧩 Resolved 230+ problems on GeeksforGeeks, illustrating a comprehensive understanding of diverse programming concepts.
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harshit787898&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshit787898/harshit787898/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+### 🏆 Achievements:
+- 🎯 Successfully solved **450+ problems on Leetcode**, showcasing strong analytical and algorithmic skills.
+- 🌟 Attained a **6-star rating in problem-solving** and earned a prestigious **4-star rating in Java** on Hackerrank, highlighting a high level of expertise.
+- 🧩 Resolved **230+ problems on GeeksforGeeks**, illustrating a comprehensive understanding of diverse programming concepts.
