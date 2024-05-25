@@ -2,7 +2,10 @@ name: Update Activity Graph
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *" # Runs at midnight every day
+  push:
+    branches:
+      - main
 
 jobs:
   update-activity-graph:
@@ -17,7 +20,15 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install node-fetch@2
 
       - name: Generate activity graph
         run: node generate-activity-graph.js
+
+      - name: Commit activity graph
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add activity-graph.svg
+          git commit -m 'Update activity graph'
+          git push
