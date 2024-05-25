@@ -96,7 +96,7 @@
 - 🌟 Attained a **6-star rating in problem-solving** and earned a prestigious **4-star rating in Java** on Hackerrank, highlighting a high level of expertise.
 - 🧩 Resolved **230+ problems on GeeksforGeeks**, illustrating a comprehensive understanding of diverse programming concepts.
   
-### LeetCode Badges
+### 🏆 LeetCode Badges
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4cnI5YnE5YnU5cmtvdXZyZ3BlZ3NncnU1MDRidzVocXJidXlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKZmsUSCHaMEGzOFRO/giphy.gif" alt="LeetCode Badge" width="150" />
