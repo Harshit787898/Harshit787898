@@ -97,9 +97,9 @@
 - 🧩 Resolved **230+ problems on GeeksforGeeks**, illustrating a comprehensive understanding of diverse programming concepts.
   
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4cnI5YnE5YnU5cmtvdXZyZ3BlZ3NncnU1MDRidzVocXJidXlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKZmsUSCHaMEGzOFRO/giphy.gif" alt="LeetCode Badge" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoYXA4bmJ4NGxjYXJuN2puZTdvcWo5NWZ2cnl6YXZpcmVyOXdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c8dZfw4YqGMdVDsWh0/giphy.gif" alt="LeetCode Badge" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExbjc3YmppaDhwbGtqa3FtY3oxOXhocHZlMDM0dDN3em1wdmtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOowQI5Z9NXzJvKKsu/giphy.gif" alt="LeetCode Badge" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4cnI5YnE5YnU5cmtvdXZyZ3BlZ3NncnU1MDRidzVocXJidXlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKZmsUSCHaMEGzOFRO/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoYXA4bmJ4NGxjYXJuN2puZTdvcWo5NWZ2cnl6YXZpcmVyOXdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c8dZfw4YqGMdVDsWh0/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExbjc3YmppaDhwbGtqa3FtY3oxOXhocHZlMDM0dDN3em1wdmtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOowQI5Z9NXzJvKKsu/giphy.gif" alt="LeetCode Badge" width="150" />
 </p>
 
 
