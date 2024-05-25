@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center" style="display: flex; align-items:center; justify-content: center;">
+  <h3 align="center">A passionate Full Stack Developer from India</h3>
+</p>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo5NTkyNTlsNmMzeXZ0dm55c2dyNzI4NzBsc295Z3RibTd1ZGNqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" alt="New Badge" width="250" />
+</p>
+
+<p align="center" style="display: flex; align-items:center; justify-content: center;">
+  <img  src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp?cid=790b7611f2ps4g5eyobc92idi9fb1y6xcmbrp1gca6dxy24a&ep=v1_stickers_search&rid=giphy.webp&ct=s" alt="GIF" style="width: 50px;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=System.out.print(%22Hello+World%22);%0D%0AGood+Morning!+I'm+Harshit;%0D%0AWelcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/harshit787898/count.svg" alt="Visitor Count" />
