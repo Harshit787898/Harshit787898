@@ -17,10 +17,10 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: harshit787898
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Push the generated snake animation to the repository
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
