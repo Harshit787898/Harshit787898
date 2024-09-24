@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-### 🏆 LeetCode Badges
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4cnI5YnE5YnU5cmtvdXZyZ3BlZ3NncnU1MDRidzVocXJidXlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKZmsUSCHaMEGzOFRO/giphy.gif" alt="LeetCode Badge" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoYXA4bmJ4NGxjYXJuN2puZTdvcWo5NWZ2cnl6YXZpcmVyOXdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c8dZfw4YqGMdVDsWh0/giphy.gif" alt="LeetCode Badge" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExbjc3YmppaDhwbGtqa3FtY3oxOXhocHZlMDM0dDN3em1wdmtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOowQI5Z9NXzJvKKsu/giphy.gif" alt="LeetCode Badge" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZsMnB5YXhnMDE3Y294ZG1nNWlkODZwYnRsdHpucjF1a3UxY3BvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/995kGSiy1F4k1Khjfd/giphy.gif" alt="LeetCode Badge" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg5N3N5MjV0ajlyZ2ZhMXMyNTBsOHdsNzExcDdxNGp0bWVhNnBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MGB5Ki8ko2esmjJgLa/giphy.gif" alt="LeetCode Badge" width="150" />
-</p>
-
 <p align="center" style="display: flex; align-items:center; justify-content: center;">
   <img  src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp?cid=790b7611f2ps4g5eyobc92idi9fb1y6xcmbrp1gca6dxy24a&ep=v1_stickers_search&rid=giphy.webp&ct=s" alt="GIF" style="width: 50px;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=System.out.print(%22Hello+World%22);%0D%0AGood+Morning!+I'm+Harshit;%0D%0AWelcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -35,6 +25,16 @@
 - 💡 Enthusiast in **Machine Learning, Artificial Intelligence, and Deep Learning**
 - 💻 Solved **450+ problems on Leetcode** and **230+ problems on GeeksforGeeks**
 - 🏆 **6-star rating in Problem Solving** and **4-star rating in Java** on Hackerrank
+
+### 🏆 LeetCode Badges
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4cnI5YnE5YnU5cmtvdXZyZ3BlZ3NncnU1MDRidzVocXJidXlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKZmsUSCHaMEGzOFRO/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoYXA4bmJ4NGxjYXJuN2puZTdvcWo5NWZ2cnl6YXZpcmVyOXdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c8dZfw4YqGMdVDsWh0/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExbjc3YmppaDhwbGtqa3FtY3oxOXhocHZlMDM0dDN3em1wdmtheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOowQI5Z9NXzJvKKsu/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZsMnB5YXhnMDE3Y294ZG1nNWlkODZwYnRsdHpucjF1a3UxY3BvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/995kGSiy1F4k1Khjfd/giphy.gif" alt="LeetCode Badge" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg5N3N5MjV0ajlyZ2ZhMXMyNTBsOHdsNzExcDdxNGp0bWVhNnBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MGB5Ki8ko2esmjJgLa/giphy.gif" alt="LeetCode Badge" width="150" />
+</p>
 
 ### 🤝 Connect with Me:
 <p align="center">
